@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Meus Projetos',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         /*{
@@ -85,6 +85,10 @@ const CONFIG = {
     'Vue.js',
     'MySQL',
     'PostgreSQL',
+    'Python',
+    'Django',
+    'Java Spring',
+    'Java',
     'Git',
     'Docker',
     'DevOps',
@@ -163,7 +167,7 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'dark',
+    defaultTheme: 'cupcake',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -171,7 +175,7 @@ const CONFIG = {
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
-    respectPrefersColorScheme: false,
+    respectPrefersColorScheme: true,
 
     // Display the ring in Profile picture
     displayAvatarRing: true,
