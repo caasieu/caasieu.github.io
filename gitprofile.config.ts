@@ -51,10 +51,10 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio de Isaac', description: 'Portfolio de Desenvolvedor Isaac Magalhães Luciano', imageURL: '' },
+  seo: { title: 'Isaac Luciano', description: 'Portfolio de Desenvolvedor Isaac Magalhães Luciano', imageURL: '' },
   social: {
     linkedin: 'caasieu',
-    x: 'caasieu',
+    x: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
